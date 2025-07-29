@@ -1,6 +1,6 @@
 token:
   expiration-time: 8640000000
-  secret: 2222changed-my-very-long-secret-key-1234567890123456-from-config-service
+  secret: 3333changed-my-very-long-secret-key-1234567890123456-from-config-service
 
-gateway:
-  ip: 192.168.0.8
+greeting:
+  message: Spring Config
