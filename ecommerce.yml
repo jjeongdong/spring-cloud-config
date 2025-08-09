@@ -4,3 +4,7 @@ token:
 
 greeting:
   message: Spring Config
+
+order-service:
+  exception:
+    order-is-empty: User's orders is empty.
